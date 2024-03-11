@@ -23,19 +23,6 @@ Welcome to my React Admin Dashboard project! This is an advanced, fully mobile-r
 - **Syncfusion**: A comprehensive suite of over 1700 components for building powerful applications, used for tables, charts, calendars, and more.
 - **Best Practices**: The project follows advanced React best practices, including folder structure, hooks, and props.
 
-## Getting Started
-
-1. **Clone the repository:**
-git clone https://github.com/your-username/your-repo-name.git
-
-2. **Install dependencies:**
-cd your-repo-name
-npm install
-
-3. **Start the application:**
-npm start
-The application will run on `http://localhost:3000`.
-
 ## Contributing
 
 Contributions are welcome! Feel free to open a pull request or an issue if you have suggestions or improvements.
